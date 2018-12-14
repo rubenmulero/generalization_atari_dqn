@@ -1,12 +1,11 @@
 # Generalization Atari DQN
-This repository contains the implementation used in my MsC degree dissertation.
+This repository contains the implementation used in my [MsC](https://www.ehu.eus/en/web/kisa/aurkezpena) degree dissertation.
 
-The idea is to study if the knowledge from CNN and Dense layer 
-can be leveraged in order to transfer previous experiences into new environments.
+The aim is to study if the knowledge from CNN and Dense layers can be leveraged in order to transfer previous experiences into new environments.
 
 ## Python version
 
-These experiments are coded in [Python2](https://www.python.org/). Please, use the correct version of the language 
+These experiments are coded in [Python2](https://www.python.org/). Please, use the correct version of this programming language 
 before testing the code.
 
 
@@ -19,7 +18,7 @@ packages:
 * Tensorflow
 * Matplotlib
 * OpenAIGym
-
+* OpenAIGym Atari module
 
 ## Acknowledgements
 
